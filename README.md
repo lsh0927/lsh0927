@@ -33,7 +33,7 @@
 
 ### 🌱 Recent Projects
 
-#### NDolphin (데이트 매칭 서비스)
+#### 🐬 NDolphin (데이트 매칭 서비스)
  - Blue/Green 무중단 배포 구현
  - WebSocket과 RabbitMQ를 활용한 실시간 채팅
  -  MongoDB를 활용한 채팅 메시지 저장
