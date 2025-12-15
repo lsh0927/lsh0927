@@ -21,28 +21,28 @@
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,mongodb,nginx,redis" />
   </a>
 </p>
 
 ### Cloud & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,nginx,redis,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws," />
   </a>
 </p>
 
 ### DevOps & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,grafana,prometheus,k6" />
+    <img src="https://skillicons.dev/icons?i=docker,rabbitmq,grafana,prometheus,k6" />
   </a>
 </p>
 
 ### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,fastapi" />
+    <img src="https://skillicons.dev/icons?i=java,python,js" />
   </a>
 </p>
 
