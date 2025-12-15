@@ -6,9 +6,13 @@
 
 ### 상상을 현실로 만들자! 💡
 
-**Java/Spring 기반 백엔드 개발자**
+**Java/Spring 기반 백엔드 개발자입니다.**
 
-고가용성과 확장성 있는 아키텍처 | AI Agent & RAG 시스템 | 새로운 기술 도전
+고가용성과 확장성 있는 아키텍처에 관심이 많습니다.
+
+AI Agent & RAG 시스템을 활용한 지능형 서비스 개발에 관심이 있습니다.
+
+새로운 기술을 배우고 도전하는 것을 좋아합니다.
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tobetirdev.tistory.com/)
 
@@ -18,31 +22,31 @@
 
 ## 🛠 Tech Stack
 
-**Backend**
-```
-Java · Spring Boot · FastAPI · PostgreSQL · MongoDB · Redis · Nginx
-```
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,fastapi,postgres,mongodb,redis,nginx" />
+</p>
 
-**Cloud & Infrastructure**
-```
-AWS (ECS, Lambda, SQS, Aurora) · Docker · Docker Compose
-```
+### Cloud & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
 
-**DevOps & Monitoring**
-```
-Grafana · Prometheus · K6 · RabbitMQ
-```
+### DevOps & Monitoring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,rabbitmq" />
+</p>
 
-**Languages**
-```
-Java · Python · JavaScript
-```
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🤖 SnapAgent - RAG 기반 AI Agent 제작 플랫폼
+### 🤖 SnapAgent - RAG 기반 AI Agent 제작 플랫폼 (2025.11)
 > 노코드 기반의 시각적 AI 워크플로우 빌더
 
 - 비주얼 워크플로우 빌더를 통한 직관적인 Agent 제작
@@ -56,7 +60,7 @@ Java · Python · JavaScript
 
 ---
 
-### 🏃 러닝앱 - GPS 기반 러닝 트래킹 서비스
+### 🏃 러닝앱 - GPS 기반 러닝 트래킹 서비스 (2025.04~2025.06)
 > 고성능 러닝 데이터 수집 및 분석 플랫폼
 
 - Spring Boot 기반 RESTful API 설계 및 구현
@@ -72,7 +76,7 @@ Java · Python · JavaScript
 
 ---
 
-### 🐬 NDolphin - 위치 기반 데이트 매칭 서비스
+### 🐬 NDolphin - 위치 기반 데이트 매칭 서비스 (2024.09~2024.12)
 > 실시간 채팅이 가능한 소셜 매칭 플랫폼
 
 - Blue/Green 무중단 배포 시스템 구현
