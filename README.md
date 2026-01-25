@@ -58,7 +58,9 @@
 
 [📎 GitHub](https://github.com/lsh0927/Krafton_Jungle10_Team4)
 
-[협업 후기] (https://tobetirdev.tistory.com/168)
+[프로젝트 회고 1] (https://tobetirdev.tistory.com/169)
+
+[프로젝트 회고 2] (https://tobetirdev.tistory.com/168)
 
 [발표영상] (https://www.youtube.com/watch?v=L-uchJcRnBQ&feature=youtu.be)
 
