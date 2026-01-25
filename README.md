@@ -61,6 +61,7 @@
 [협업 후기] (https://tobetirdev.tistory.com/168)
 
 [발표영상] (https://www.youtube.com/watch?v=L-uchJcRnBQ&feature=youtu.be)
+
 ---
 
 ### 🏃 러닝앱 - GPS 기반 러닝 트래킹 서비스 (2025.04~2025.06)
