@@ -6,11 +6,11 @@
 
 ### 상상을 현실로 만들자! 💡
 
-**Java/Spring 기반 백엔드 개발자입니다.**
+**Java & Python 기반 백엔드 개발자입니다.**
 
-고가용성과 확장성 있는 아키텍처에 관심이 많습니다.
+인간에게 편의를 주는 기술에 관심이 많습니다.
 
-AI Agent & RAG 시스템을 활용한 지능형 서비스 개발에 관심이 있습니다.
+특히 AI Agent 서비스 개발에 관심이 있습니다.
 
 새로운 기술을 배우고 도전하는 것을 좋아합니다.
 
@@ -64,11 +64,10 @@ AI Agent & RAG 시스템을 활용한 지능형 서비스 개발에 관심이 �
 > 고성능 러닝 데이터 수집 및 분석 플랫폼
 
 - Spring Boot 기반 RESTful API 설계 및 구현
-- **성능 최적화**: TPS 2,492 req/sec, 평균 응답시간 26.75ms, 에러율 0% 달성
-- K6 + Grafana + Prometheus 기반 부하테스트 자동화 시스템
-- MongoDB를 활용한 GPS 데이터 효율적 저장 및 조회
+- K6 + Grafana + Prometheus 기반 부하테스트 시스템 구축
+- MongoDB를 활용한 GPS 데이터 저장 및 조회.
 - Docker Compose 기반 컨테이너 오케스트레이션
-- 실시간 모니터링 대시보드 및 장애 자동 감지 시스템
+- 실시간 모니터링 대시보드 및 장애 자동 감지 시스템을 통한 장애 감지 시간 단축(5분이내)
 
 **Tech**: Spring Boot, MongoDB, PostgreSQL, Nginx, Docker, Grafana, Prometheus, K6
 
@@ -93,23 +92,22 @@ AI Agent & RAG 시스템을 활용한 지능형 서비스 개발에 관심이 �
 ## 💼 Experience
 
 ### 🤖 SnapAgent | Backend & Infrastructure Developer
-**주요 역할**
-- FastAPI 기반 RESTful API 설계 및 구현 (50+ 엔드포인트)
+**주요 역할** : PL & Backend / Infra
 - AWS ECS Fargate 기반 마이크로서비스 아키텍처 구축
 - pgvector를 활용한 벡터 유사도 검색 시스템 개발
 - SQS + Lambda 비동기 문서 처리 파이프라인 설계
-- Redis 시맨틱 캐싱으로 LLM 비용 최적화
+- Redis 시맨틱 캐싱으로 LLM API 호출 횟수 감소 유도, 시간 및 비용 개선
 - Docker 컨테이너화 및 CI/CD 파이프라인 구축
 
 ### 🏃 러닝앱 | Backend & Infrastructure Developer
 **2024 - 2025**
 
 **주요 역할**
-- Spring Boot 기반 GPS 관리 API 설계 및 구현
+- Spring Boot 기반 GPS 관리 API 설계, 구현
 - Nginx 리버스 프록시를 통한 HTTPS 보안 계층 구축 (온프레미스)
+- VPN 설정으로 서버 보안 향상
 - K6, Prometheus, Grafana를 활용한 자동화된 부하테스트 시스템 구축
 - HikariCP 연결 풀 최적화로 100명 동시 접속 안정화
-- 원클릭 부하테스트 자동화 스크립트 개발
 
 ### 🐬 NDolphin | Backend Developer
 **2024.08 - 2024.12**
